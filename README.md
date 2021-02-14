@@ -1,4 +1,5 @@
 Christian Foulcard
+![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubtest.png)
 --
 Mahalo 👋🏽 My name's Christian - A software developer who works on coding and designing Android Apps. I code with ❤ in Kotlin and Java 
 - 👀 I’m interested in ...
