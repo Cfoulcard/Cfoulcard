@@ -1,10 +1,10 @@
 ![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
 --
-Mahalo 👋🏽 My name's Christian - A software developer who works on coding and designing Android Apps. I code with ❤ in Kotlin and Java 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Mahalo 👋🏽 My Name's Christian Foulcard
+###### Let's grab a couple cups of Coffee and get to know each other for a bit?
+
+* 
+
 
 <!---
 Cfoulcard/Cfoulcard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
