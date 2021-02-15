@@ -3,14 +3,14 @@
 # Mahalo 👋🏽 My Name's Christian Foulcard
 ###### Welcome to my page! Let's grab a couple cups of coffee and get to know each other for a bit?
 
-###### Stack Expertise
+#### Stack Expertise
 * Android Development
 * Kotlin
 * Java
 * UI/UX
 * XML
 
-###### Hobbies
+#### Hobbies
 * Gaming (Racing and MMOs)
 * Coding
 * Reading
