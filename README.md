@@ -25,4 +25,4 @@ I'm an Android Software Developer who enjoys the excitement of 👨🏾‍💻 c
 <img src="https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner4.png">
  </p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfoulcard)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfoulcard)](https://github.com/cfoulcard)
