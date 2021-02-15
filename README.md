@@ -5,19 +5,30 @@
 
 <h5 align="center">Stack Expertise</h5>
 <p align="center">Android Development
+  </br>
 Kotlin
+  </br>
 Java
+  </br>
 UI/UX
+  </br>
 XML</p>
 
 <h5 align="center">Hobbies</h5>
 <p align="center">Gaming (Racing and MMOs)
+    </br>
 Coding
+  </br>
 Reading
+  </br>
 Learning
+  </br>
 Movies + Shows
+  </br>
 Computer Building + OS customizations
+  </br>
 Travel
+  </br>
 Health + Fitness</p>
 
 <!---
