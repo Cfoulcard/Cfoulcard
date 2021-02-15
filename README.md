@@ -3,7 +3,7 @@
 <h1 align="center">Mahalo 👋🏽 My Name's Christian Foulcard</h1>
 <h4 align="center">Have time for a couple cups of coffee ☕ and get to know each other for a bit?</h4>
 
-![Banner2](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner3.png)
+<img align="center">![Banner2](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner3.png)</img>
 
 
 <!---
