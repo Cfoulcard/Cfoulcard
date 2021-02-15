@@ -1,29 +1,26 @@
-<p align="center">
-    
 ![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
 --
-# Mahalo 👋🏽 My Name's Christian Foulcard
-###### Welcome to my page! Let's grab a couple cups of coffee and get to know each other for a bit?
+<h1 align="center">Mahalo 👋🏽 My Name's Christian Foulcard</h1>
+<h4 align="center">Welcome to my page! Let's grab a couple cups of coffee and get to know each other for a bit? </h4>
 
-#### Stack Expertise
-* Android Development
-* Kotlin
-* Java
-* UI/UX
-* XML
+<h5 align="center">Stack Expertise</h5>
+<p align="center">Android Development
+Kotlin
+Java
+UI/UX
+XML</p>
 
-#### Hobbies
-* Gaming (Racing and MMOs)
-* Coding
-* Reading
-* Learning
-* Movies + Shows
-* Computer Building + OS customizations
-* Travel
-* Health + Fitness
+<h5 align="center">Hobbies</h5>
+<p align="center">Gaming (Racing and MMOs)
+Coding
+Reading
+Learning
+Movies + Shows
+Computer Building + OS customizations
+Travel
+Health + Fitness</p>
 
 <!---
 Cfoulcard/Cfoulcard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</p>
