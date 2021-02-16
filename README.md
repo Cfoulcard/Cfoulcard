@@ -22,7 +22,7 @@ I'm an Android Software Developer who enjoys the excitement of 👨🏾‍💻 c
 </p>
 
  <p align="center">
-<img src="https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner4.png">
+<img src="https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner2.png">
  </p>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfoulcard)](https://github.com/cfoulcard)
