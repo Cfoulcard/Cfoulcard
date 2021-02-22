@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
 
-<h1 align="center">Mahalo 👋🏽 My Name's Christian Foulcard</h1>
+<h1 align="center">Aloha 👋🏽 My Name's Christian Foulcard</h1>
 <h4 align="center">Have time for a couple cups of coffee ☕ and get to know each other for a bit?</h4>
 
  <p align="center">
