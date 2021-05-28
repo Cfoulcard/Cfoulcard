@@ -18,7 +18,7 @@
 </p>
  
  <p align="center">
-I'm an Android Software Developer who enjoys the excitement of 👨🏾‍💻 creating, 🛠 building, and 🗺 publishing of an app. I enjoy being in the moment of the journey of development and design, and if you feel the same maybe that's a sign we should connect! If my projects vibe with you please :star: and/or contribute to it!
+I'm an Android Software Developer who enjoys the excitement of 👨🏾‍💻 creating, 🛠 building, and 🗺 publishing an app. I enjoy being in the moment of the journey of development and design, and if you feel the same maybe that's a sign we should connect! If my projects vibe with you please :star: and/or contribute to it! I work on both front and back end!
 </p>
 
  <p align="center">
