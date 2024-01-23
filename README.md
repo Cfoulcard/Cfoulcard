@@ -2,6 +2,8 @@
 
 <h1 align="center">Aloha 👋🏽 My Name's Christian Foulcard</h1>
 <h4 align="center">Have time for a couple cups of coffee ☕ and get to know each other for a bit?</h4>
+
+<p align="center">
  
   <a href="https://www.linkedin.com/in/cfoulcard/">
 <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin">
