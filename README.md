@@ -1,7 +1,6 @@
 ![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
    ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-
 <h1 align="center">Aloha 👋🏽 My Name's Christian Foulcard</h1>
 
  <p align="center">
