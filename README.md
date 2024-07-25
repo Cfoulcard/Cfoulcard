@@ -1,4 +1,6 @@
 ![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
+   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 <h1 align="center">Aloha 👋🏽 My Name's Christian Foulcard</h1>
 
@@ -10,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Android and iOS developer with a 
   As a developer, I believe in the power of code to transform ideas into reality. I am constantly exploring new technologies and love translating a thought into something amazing.
  </p>
 
+
 <hr>
 <h3 align="center">Tech Stack and Tools</h4>
 <p align="center">
@@ -17,5 +20,6 @@ Welcome to my GitHub profile! I'm a passionate Android and iOS developer with a 
         <img src="https://skillicons.dev/icons?i=kotlin,swift,java,python,androidstudio,gradle,graphql,ktor,aws,bitbucket,figma,xd,postman,firebase,git,theme=dark" />
       </a>
 </p>
+
  
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfoulcard)](https://github.com/cfoulcard) -->
