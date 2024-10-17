@@ -1,7 +1,4 @@
-![Banner](https://github.com/Cfoulcard/Cfoulcard/blob/main/githubbanner.png)
-   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
-<h1 align="center">Aloha 👋🏽 My Name's Christian Foulcard</h1>
+<h1 align="center">Hi 👋🏽 My Name's Christian Foulcard</h1>
 
  <p align="center">
 Welcome to my GitHub profile! I'm a passionate Android and iOS developer with a knack for creativity and innovation. My journey in mobile app development has been fueled by a deep love for crafting intuitive and engaging user experiences. Whether it's designing sleek interfaces or optimizing performance, I thrive on pushing the boundaries of what's possible. 
