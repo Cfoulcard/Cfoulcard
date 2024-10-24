@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Android and iOS developer with a 
 <h3 align="center">Tech Stack and Tools</h4>
 <p align="center">
    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,swift,java,python,androidstudio,gradle,graphql,ktor,aws,bitbucket,figma,xd,postman,firebase,git,theme=dark" />
+        <img src="https://skillicons.dev/icons?i=kotlin,ktor,swift,java,python,androidstudio,gradle,graphql,ktor,aws,bitbucket,figma,xd,postman,firebase,git,theme=dark" />
       </a>
 </p>
 
